@@ -45,3 +45,8 @@ html, body {
 .container p {
     margin: 200px;
 }
+
+.message {
+    font-size: 15px;
+    color: #ff9999;
+}
