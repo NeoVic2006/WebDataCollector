@@ -1,2 +1,2 @@
 # WebDataCollector
-Build a Data Collector Web App with PostGreSQL and Flask. 
+Web App to collect email and height, store data in postgresSQL and send email notifications. 
